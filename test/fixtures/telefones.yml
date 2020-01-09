@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numero: 
+  ddd: 1
+  tipo: 1
+  preferencial: false
+
+two:
+  numero: 
+  ddd: 1
+  tipo: 1
+  preferencial: false
